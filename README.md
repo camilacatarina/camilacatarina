@@ -9,15 +9,23 @@ I'm a Análise e Desenvolvimento de Sistemas (ADS) student passionate about tech
 ## 🛠️ Tech Stack & Tools
 
 ### Front-End & Back-End
+
 ![HTML5](https://shields.io)
+
 ![CSS3](https://shields.io)
+
 ![JavaScript](https://shields.io)
+
 ![React](https://shields.io)
+
 ![Node.js](https://shields.io)
+
 ![Python](https://shields.io)
 
 ### Security, Infrastructure & Databases
+
 ![MySQL](https://shields.io)
+
 ![Git](https://shields.io)
 
 ---
