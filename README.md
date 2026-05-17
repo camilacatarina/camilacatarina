@@ -8,7 +8,7 @@ I'm a Análise e Desenvolvimento de Sistemas (ADS) student passionate about tech
 
 ## 🛠️ Tech Stack & Tools
 
-### Front-End & Back-End, Front-End 
+### Back-End & Front-End 
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,typescript,html,css,react,nodejs)](https://skillicons.dev)
 
